@@ -1,6 +1,6 @@
 # workshop-template
 
-### The link for this workshop is [OU SWC](http://oulib-swc.github.io/2016-01-12-ou/)
+#### The link for this workshop is [OU SWC](http://oulib-swc.github.io/2016-01-12-ou/)
 
 
 This repository is [Software Carpentry](http://software-carpentry.org)'s
